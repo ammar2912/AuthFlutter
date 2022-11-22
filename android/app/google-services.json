@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730513218017",
+    "project_id": "data-login-6101e",
+    "storage_bucket": "data-login-6101e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730513218017:android:ac3e192fba5f6bee5cdaa0",
+        "android_client_info": {
+          "package_name": "com.example.ujikom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730513218017-5aemq1qo6ank072v1vjapt8du22gf577.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ujikom",
+            "certificate_hash": "4b0ed00ba49430f4682bd4da1a7f7fd22291fa63"
+          }
+        },
+        {
+          "client_id": "730513218017-k49hjbphkni09nrsdiisf82007c2a3rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaHK4B67JKOPrM_FnF1ONcvmf88MsZhEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730513218017-k49hjbphkni09nrsdiisf82007c2a3rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
